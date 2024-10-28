@@ -2,6 +2,8 @@
 
 Monster Ambulance is a tabletop roleplaying game by Colin Fredericks. This is the System Reference Document - it gives you the rules you need to play the game. It doesn't have the art, the setting, the random-roll tables for monsters and medical symptoms, or all the fun little footnotes.[\*](#footnotes)
 
+Right now the text is being added to the wiki for this repo. Here's the link: [Monster Ambulance SRD Wiki](https://github.com/Colin-Fredericks/Monster-Ambulance-SRD/wiki).
+
 ## License
 
 The SRD and all documents in this repository are licensed CC-0 1.0, which places it into the public domain. You can use it for anything you want, including commercial purposes. You can make changes, you can split it up, you can change terminology, it's yours.
@@ -10,4 +12,4 @@ I would appreciate if you included something like "Rules based on Monster Ambula
 
 You can say things like "Compatible with Monster Ambulance" if you want.
 
-<a name="footnotes">\* Like this one! See? Fun footnotes.</a>
+<a name="footnotes">\*</a> Like this one! See? Fun footnotes.
