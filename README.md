@@ -1,6 +1,6 @@
 # Monster-Ambulance-SRD
 
-Monster Ambulance is a tabletop roleplaying game by Colin Fredericks. This is the System Reference Document - it gives you the rules you need to play the game. It doesn't have the art, the setting, the random-roll tables for monsters and medical symptoms, or all the fun little footnotes.\*
+Monster Ambulance is a tabletop roleplaying game by Colin Fredericks. This is the System Reference Document - it gives you the rules you need to play the game. It doesn't have the art, the setting, the random-roll tables for monsters and medical symptoms, or all the fun little footnotes.[\*](#footnotes)
 
 ## License
 
@@ -10,4 +10,4 @@ I would appreciate if you included something like "Rules based on Monster Ambula
 
 You can say things like "Compatible with Monster Ambulance" if you want.
 
-\* Like this one! See? Fun footnotes.
+<a name="footnotes">\* Like this one! See? Fun footnotes.</a>
